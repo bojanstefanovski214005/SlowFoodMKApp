@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.slowfood.slowfoodmk"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "124e7cf9-7741-4ce3-abe3-411c929358e0"
+      }
+    },
+    "owner": "bojanstef5"
   }
 }
